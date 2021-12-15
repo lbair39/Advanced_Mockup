@@ -1,1 +1,5 @@
-body {background-color: rgb(241, 241, 189);}
+body {background-color: rgb(241, 241, 189)}
+#imgTwo {
+    display: block;
+    margin: auto;
+}
